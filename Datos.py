@@ -1,17 +1,13 @@
 print("Indica tu nombre")
-
 nombre = input()
 
 print("Indica tu edad")
-
 edad = input()
 
 print("Indica tu genero")
-
 genero = input()
 
 print("Indica tu orientación")
-
 orientación = input()
 
 print(
